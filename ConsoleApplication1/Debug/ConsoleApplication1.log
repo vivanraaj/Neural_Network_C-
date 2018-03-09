@@ -1,0 +1,7 @@
+﻿  neural-net.cpp
+m:\documents\neural network\use_this_for_assignment\consoleapplication1\consoleapplication1\neural-net.cpp(451): warning C4018: '<': signed/unsigned mismatch
+m:\documents\neural network\use_this_for_assignment\consoleapplication1\consoleapplication1\neural-net.cpp(453): warning C4018: '<': signed/unsigned mismatch
+m:\documents\neural network\use_this_for_assignment\consoleapplication1\consoleapplication1\neural-net.cpp(456): warning C4018: '<': signed/unsigned mismatch
+m:\documents\neural network\use_this_for_assignment\consoleapplication1\consoleapplication1\neural-net.cpp(644): warning C4566: character represented by universal-character-name '\u2212' cannot be represented in the current code page (1252)
+  ConsoleApplication1.vcxproj -> M:\Documents\Neural Network\Use_This_For_Assignment\ConsoleApplication1\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> M:\Documents\Neural Network\Use_This_For_Assignment\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Full PDB)
